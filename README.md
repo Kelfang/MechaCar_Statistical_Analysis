@@ -65,7 +65,7 @@ The variance of all the lots shown in the Total Summary Suspension Coils image, 
 
 
 ## Study Design: MechaCar vs. Competition
-Within the United States, it’s not a surprise that SUVs are the most popular vehicle type in 45 of the 50 states[^1]. While looks may play a factor in this decision, one can’t help but think it’s about the space within the vehicle’s cabin to carry both people and cargo. It makes sense that size matters when buying a vehicle and bigger may be better.
+Within the United States, it’s not a surprise that SUVs are the most popular vehicle type in 45 of the 50 states[^1]. Driving around, just about anywhere, you can't miss them. While everyone has their list of "must haves", and they likely vary from one person to the next, I can’t help but wonder if roomy interiors make vehicles easier to sell. People want to be comfortable so it makes sense that size matters. Is bigger better?
 
 ### Metric to Test
 Determine the interior cabin space, in cubic inches, of the MechaCar and compare the interior volume to the competition within the same vehicle type.
