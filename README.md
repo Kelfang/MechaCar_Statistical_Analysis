@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The motivation behind this project is to assist AutoRUs’ manufacturing team with production troubles on the newest prototype, the MechaCar. The following has been performed:
+The motivation behind this project is to assist AutoRUs’ manufacturing team with production troubles on the newest prototype, the MechaCar. The following actions were taken:
 
 *	Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 *	Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
